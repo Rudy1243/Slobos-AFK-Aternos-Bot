@@ -8,11 +8,11 @@
   "server": {
     "ip": "FuzzyKingdom.aternos.me",
     "port": 39240,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
